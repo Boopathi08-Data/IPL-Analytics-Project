@@ -1,0 +1,31 @@
+player,team,role,matches,runs,batting_avg,strike_rate,hundreds,fifties,wickets,economy,bowling_avg
+Rohit Sharma,Sunrisers Hyderabad,batter,122,3232,34.98,136.62,1,10,0,,
+Virat Kohli,Chennai Super Kings,batter,155,4117,35.89,153.23,2,9,0,,
+MS Dhoni,Rajasthan Royals,all-rounder,170,3192,25.6,129.66,1,9,198,9.21,28.07
+Hardik Pandya,Rajasthan Royals,batter,83,1994,29.18,143.43,0,6,0,,
+Jasprit Bumrah,Royal Challengers Bangalore,all-rounder,85,1607,24.22,127.34,0,5,101,8.27,17.35
+Suryakumar Yadav,Delhi Capitals,all-rounder,154,1632,16.65,126.38,0,5,151,7.39,26.26
+Shubman Gill,Royal Challengers Bangalore,wicket-keeper,40,635,21.55,117.88,0,2,0,,
+Rishabh Pant,Sunrisers Hyderabad,bowler,167,1513,,,0,0,150,9.13,24.1
+KL Rahul,Kolkata Knight Riders,batter,208,4669,32.41,123.75,2,11,0,,
+Ravindra Jadeja,Chennai Super Kings,bowler,41,285,,,0,0,52,7.72,25.44
+Yuzvendra Chahal,Gujarat Titans,all-rounder,93,1055,20.09,135.76,0,3,87,7.68,23.83
+Kagiso Rabada,Punjab Kings,batter,48,1022,28.39,156.52,0,2,0,,
+Trent Boult,Chennai Super Kings,batter,146,3952,31.92,127.42,2,11,0,,
+David Warner,Lucknow Super Giants,bowler,219,748,,,0,0,317,8.68,20.12
+Faf du Plessis,Sunrisers Hyderabad,all-rounder,132,3092,28.25,112.4,1,10,189,7.17,25.79
+Quinton de Kock,Punjab Kings,batter,137,3973,36.43,139.71,1,9,0,,
+Andre Russell,Chennai Super Kings,batter,74,1359,31.31,134.99,0,3,0,,
+Nicholas Pooran,Gujarat Titans,bowler,93,267,,,0,0,123,7.07,22.12
+Glenn Maxwell,Gujarat Titans,wicket-keeper,163,3031,24.24,142.57,1,7,0,,
+Rashid Khan,Lucknow Super Giants,all-rounder,106,2179,29.06,114.37,0,5,164,8.33,23.46
+Shreyas Iyer,Lucknow Super Giants,bowler,173,1464,,,0,0,215,7.63,27.45
+Ruturaj Gaikwad,Lucknow Super Giants,batter,114,3673,38.19,147.31,2,11,0,,
+Sanju Samson,Mumbai Indians,bowler,70,484,,,0,0,73,7.51,23.76
+Ishan Kishan,Rajasthan Royals,bowler,125,462,,,0,0,183,8.33,28.9
+Deepak Chahar,Kolkata Knight Riders,bowler,105,635,,,0,0,117,7.76,24.26
+Mohammed Shami,Punjab Kings,all-rounder,69,1061,20.36,120.04,0,2,81,8.67,30.42
+Axar Patel,Lucknow Super Giants,bowler,47,407,,,0,0,48,8.05,29.01
+Prithvi Shaw,Sunrisers Hyderabad,wicket-keeper,49,1062,29.17,125.55,0,3,0,,
+Devdutt Padikkal,Sunrisers Hyderabad,all-rounder,177,4227,29.17,147.38,1,10,256,8.07,31.26
+Shikhar Dhawan,Rajasthan Royals,wicket-keeper,54,487,11.28,140.22,0,1,0,,

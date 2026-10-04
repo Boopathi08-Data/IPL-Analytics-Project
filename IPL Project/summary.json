@@ -1,0 +1,274 @@
+{
+  "wins_by_team": {
+    "Chennai Super Kings": 81,
+    "Mumbai Indians": 68,
+    "Sunrisers Hyderabad": 63,
+    "Punjab Kings": 61,
+    "Rajasthan Royals": 57,
+    "Delhi Capitals": 54,
+    "Royal Challengers Bangalore": 52,
+    "Kolkata Knight Riders": 38,
+    "Lucknow Super Giants": 24,
+    "Gujarat Titans": 18
+  },
+  "matches_played_by_team": {
+    "Royal Challengers Bangalore": 131,
+    "Sunrisers Hyderabad": 124,
+    "Punjab Kings": 123,
+    "Mumbai Indians": 122,
+    "Delhi Capitals": 121,
+    "Chennai Super Kings": 120,
+    "Rajasthan Royals": 116,
+    "Kolkata Knight Riders": 96,
+    "Lucknow Super Giants": 43,
+    "Gujarat Titans": 36
+  },
+  "win_pct_by_team": {
+    "Chennai Super Kings": 67.5,
+    "Lucknow Super Giants": 55.8,
+    "Mumbai Indians": 55.7,
+    "Sunrisers Hyderabad": 50.8,
+    "Gujarat Titans": 50.0,
+    "Punjab Kings": 49.6,
+    "Rajasthan Royals": 49.1,
+    "Delhi Capitals": 44.6,
+    "Royal Challengers Bangalore": 39.7,
+    "Kolkata Knight Riders": 39.6
+  },
+  "toss_win_match_win_pct": 50.2,
+  "toss_decision_split": {
+    "field": 335,
+    "bat": 181
+  },
+  "season_avg_first_innings": {
+    "2016": 182.2,
+    "2017": 181.8,
+    "2018": 180.2,
+    "2019": 183.7,
+    "2020": 176.2,
+    "2021": 177.1,
+    "2022": 177.4,
+    "2023": 182.6,
+    "2024": 183.5
+  },
+  "matches_per_season": {
+    "2016": 56,
+    "2017": 56,
+    "2018": 56,
+    "2019": 56,
+    "2020": 56,
+    "2021": 56,
+    "2022": 60,
+    "2023": 60,
+    "2024": 60
+  },
+  "matches_by_venue": {
+    "Narendra Modi Stadium, Ahmedabad": 72,
+    "Eden Gardens, Kolkata": 60,
+    "Punjab Cricket Association Stadium, Mohali": 60,
+    "Sawai Mansingh Stadium, Jaipur": 55,
+    "Wankhede Stadium, Mumbai": 47,
+    "M. Chinnaswamy Stadium, Bangalore": 47,
+    "BRSABV Ekana Stadium, Lucknow": 46,
+    "Arun Jaitley Stadium, Delhi": 45,
+    "Rajiv Gandhi Intl. Stadium, Hyderabad": 44,
+    "MA Chidambaram Stadium, Chennai": 40
+  },
+  "top_run_scorers": [
+    {
+      "player": "KL Rahul",
+      "team": "Kolkata Knight Riders",
+      "runs": 4669,
+      "batting_avg": 32.41,
+      "strike_rate": 123.75
+    },
+    {
+      "player": "Devdutt Padikkal",
+      "team": "Sunrisers Hyderabad",
+      "runs": 4227,
+      "batting_avg": 29.17,
+      "strike_rate": 147.38
+    },
+    {
+      "player": "Virat Kohli",
+      "team": "Chennai Super Kings",
+      "runs": 4117,
+      "batting_avg": 35.89,
+      "strike_rate": 153.23
+    },
+    {
+      "player": "Quinton de Kock",
+      "team": "Punjab Kings",
+      "runs": 3973,
+      "batting_avg": 36.43,
+      "strike_rate": 139.71
+    },
+    {
+      "player": "Trent Boult",
+      "team": "Chennai Super Kings",
+      "runs": 3952,
+      "batting_avg": 31.92,
+      "strike_rate": 127.42
+    },
+    {
+      "player": "Ruturaj Gaikwad",
+      "team": "Lucknow Super Giants",
+      "runs": 3673,
+      "batting_avg": 38.19,
+      "strike_rate": 147.31
+    },
+    {
+      "player": "Rohit Sharma",
+      "team": "Sunrisers Hyderabad",
+      "runs": 3232,
+      "batting_avg": 34.98,
+      "strike_rate": 136.62
+    },
+    {
+      "player": "MS Dhoni",
+      "team": "Rajasthan Royals",
+      "runs": 3192,
+      "batting_avg": 25.6,
+      "strike_rate": 129.66
+    }
+  ],
+  "top_wicket_takers": [
+    {
+      "player": "David Warner",
+      "team": "Lucknow Super Giants",
+      "wickets": 317,
+      "economy": 8.68,
+      "bowling_avg": 20.12
+    },
+    {
+      "player": "Devdutt Padikkal",
+      "team": "Sunrisers Hyderabad",
+      "wickets": 256,
+      "economy": 8.07,
+      "bowling_avg": 31.26
+    },
+    {
+      "player": "Shreyas Iyer",
+      "team": "Lucknow Super Giants",
+      "wickets": 215,
+      "economy": 7.63,
+      "bowling_avg": 27.45
+    },
+    {
+      "player": "MS Dhoni",
+      "team": "Rajasthan Royals",
+      "wickets": 198,
+      "economy": 9.21,
+      "bowling_avg": 28.07
+    },
+    {
+      "player": "Faf du Plessis",
+      "team": "Sunrisers Hyderabad",
+      "wickets": 189,
+      "economy": 7.17,
+      "bowling_avg": 25.79
+    },
+    {
+      "player": "Ishan Kishan",
+      "team": "Rajasthan Royals",
+      "wickets": 183,
+      "economy": 8.33,
+      "bowling_avg": 28.9
+    },
+    {
+      "player": "Rashid Khan",
+      "team": "Lucknow Super Giants",
+      "wickets": 164,
+      "economy": 8.33,
+      "bowling_avg": 23.46
+    },
+    {
+      "player": "Suryakumar Yadav",
+      "team": "Delhi Capitals",
+      "wickets": 151,
+      "economy": 7.39,
+      "bowling_avg": 26.26
+    }
+  ],
+  "best_strike_rates": [
+    {
+      "player": "Virat Kohli",
+      "team": "Chennai Super Kings",
+      "strike_rate": 153.23,
+      "runs": 4117
+    },
+    {
+      "player": "Devdutt Padikkal",
+      "team": "Sunrisers Hyderabad",
+      "strike_rate": 147.38,
+      "runs": 4227
+    },
+    {
+      "player": "Ruturaj Gaikwad",
+      "team": "Lucknow Super Giants",
+      "strike_rate": 147.31,
+      "runs": 3673
+    },
+    {
+      "player": "Hardik Pandya",
+      "team": "Rajasthan Royals",
+      "strike_rate": 143.43,
+      "runs": 1994
+    },
+    {
+      "player": "Glenn Maxwell",
+      "team": "Gujarat Titans",
+      "strike_rate": 142.57,
+      "runs": 3031
+    },
+    {
+      "player": "Quinton de Kock",
+      "team": "Punjab Kings",
+      "strike_rate": 139.71,
+      "runs": 3973
+    }
+  ],
+  "best_economy": [
+    {
+      "player": "Nicholas Pooran",
+      "team": "Gujarat Titans",
+      "economy": 7.07,
+      "wickets": 123
+    },
+    {
+      "player": "Faf du Plessis",
+      "team": "Sunrisers Hyderabad",
+      "economy": 7.17,
+      "wickets": 189
+    },
+    {
+      "player": "Suryakumar Yadav",
+      "team": "Delhi Capitals",
+      "economy": 7.39,
+      "wickets": 151
+    },
+    {
+      "player": "Sanju Samson",
+      "team": "Mumbai Indians",
+      "economy": 7.51,
+      "wickets": 73
+    },
+    {
+      "player": "Shreyas Iyer",
+      "team": "Lucknow Super Giants",
+      "economy": 7.63,
+      "wickets": 215
+    },
+    {
+      "player": "Yuzvendra Chahal",
+      "team": "Gujarat Titans",
+      "economy": 7.68,
+      "wickets": 87
+    }
+  ],
+  "avg_win_margin_runs": 32.0,
+  "avg_win_margin_wickets": 4.8,
+  "total_matches": 516,
+  "total_seasons": 9,
+  "total_players": 30
+}
